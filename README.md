@@ -5,3 +5,6 @@
 * wyznaczanie punktów przecięcia półprostej z okręgiem,
 * wykorzystanie drzew KD do szukania najbliższego sąsiada punktu z chmury punktów,
 * obliczanie pola trójkąta.
+## Technologies:
+* Java
+* Swing
